@@ -1,0 +1,9 @@
+version: "3"
+services:
+       whack-backend:
+           container_name: whack-backend
+           image: whack-backend
+           restart: always
+           build: .
+           ports:
+             - "3000:3000"
