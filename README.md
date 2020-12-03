@@ -19,4 +19,4 @@
  
  ## App store links
  
- - Coming soon...
+ - https://apps.apple.com/us/app/whack-moles/id1540015293
